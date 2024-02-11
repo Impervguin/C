@@ -1,0 +1,1 @@
+sb rts ./func_tests/out_file

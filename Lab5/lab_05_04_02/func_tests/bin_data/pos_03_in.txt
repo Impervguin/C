@@ -1,0 +1,12 @@
+money
+moneyvich
+20
+40
+trap
+ast
+10
+50
+kde
+da
+30
+120

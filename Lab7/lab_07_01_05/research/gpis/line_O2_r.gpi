@@ -1,0 +1,9 @@
+#!/usr/bin/gnuplot -persist
+set title "Измерение времени сортировки в зависимости от количества элементов"
+set xlabel "Количество элементов, шт"
+set ylabel "Время, мкс"
+set grid
+set terminal svg size 1920, 1080 font "Helvetica, 23"
+set output "./graphs/line_qsort_O2_r.svg"
+plot "./post/liners/qsort_O2_r" with linespoints, \
+"./post/liners/mysort_O2_r" with linespoints, \

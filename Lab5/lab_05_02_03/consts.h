@@ -1,0 +1,7 @@
+#ifndef C_LABS_CONSTS_H
+#define C_LABS_CONSTS_H
+
+#define THREE_SIGMA_PROB 0.9973
+#define EPS 0.00001
+
+#endif //C_LABS_CONSTS_H

@@ -1,0 +1,12 @@
+trap
+ast
+10
+50
+asda
+sdqa
+10
+70
+money
+moneyvich
+20
+40

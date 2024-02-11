@@ -1,0 +1,1 @@
+Movement time cannot be less than zero.

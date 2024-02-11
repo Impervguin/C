@@ -1,0 +1,8 @@
+test_test
+man
+10
+20
+tam_pam
+sm
+10
+30
