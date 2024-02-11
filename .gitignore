@@ -16,5 +16,4 @@
 *.config
 *.creator.user
 .idea
-./lab_11_01_01/src/main.c
 __pycache__
